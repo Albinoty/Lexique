@@ -1,5 +1,7 @@
 ﻿# Lexique définition
 
+Le lexique est écrit à partir de la coding school et mis à jour au fil du temps
+
 ## Définition
 
 * **Terminal**: Un terminal est un moyen de communiquer avec la machine sous forme de ligne de commande
